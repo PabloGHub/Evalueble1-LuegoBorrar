@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Evaluable1</string>
+
+    <string name="Act1">Ir Actividad 1</string>
+    <string name="Act2">Ir Actividad 2</string>
+    <string name="Act3">Ir Actividad 3</string>
+    <string name="Act4">Ir Actividad 4</string>
+    <string name="Act5">Ir Actividad 5</string>
+    <string name="Act6">Ir Actividad 6</string>
+
+    <string name="abrirnavegador">Abrir en Navegador</string>
+    <string name="error">ERROR\n%s</string>
+
+    <string name="diezs">Han pasado 10segundos</string>
+
+
+    <string name="p3_1">La 3.1</string>
+    <string name="p3_2">La 3.2</string>
+    <string name="p3_3">La 3.3</string>
+    <string name="p3_4">La 3.4</string>
+    <string name="act3_1">*- Volver a ppal, Usted esta en la 3.1 </string>
+    <string name="act3_2">*- Volver a ppal, Usted esta en la 3.2 </string>
+    <string name="act3_3">*- Volver a ppal, Usted esta en la 3.3 </string>
+    <string name="act3_4">*- Volver a ppal, Usted esta en la 3.4 </string>
+
+</resources>

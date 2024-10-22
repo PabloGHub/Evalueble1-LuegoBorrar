@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Negro">#FF30303F</color>
+    <color name="Branco">#FFF0F0F0</color>
+    <color name="Asul">#5dcdfa</color> <!-- 0842F5 -->
+    <color name="virdi">#4f9d1d</color>
+
+    <color name="ROJO" >#FF3030</color>
+    <color name="VERDE">#30FF30</color>
+    <color name="AZUL" >#3030FF</color>
+
+    <color name="MoradoGuay">#572364</color>
+    <color name="Marron">#8a6642</color>
+    <color name="oVerde">#1c542d</color>
+</resources>

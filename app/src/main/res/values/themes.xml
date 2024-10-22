@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Evaluable1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="background">@style/CustomButton</item>
+
+    </style>
+
+    <style name="Theme.Evaluable1" parent="Base.Theme.Evaluable1" />
+
+
+
+    <style name="CustomButton" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">#00000000</item> <!-- Color transparente -->
+    </style>
+
+</resources>
